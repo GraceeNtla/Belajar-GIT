@@ -1,1 +1,3 @@
-Pada Mata kuliah Komputasi Matematika hari ini belajar Git Hub. Dari cara install dan mempelajarinya. Kemudian, belajar membuat folder.
+Pada Mata kuliah Komputasi Matematika hari ini belajar Git Hub.
+Dari cara install  git dan github.
+Kemudian, melakukan uji coba mempelajarinya baik dalam membuat repository dan cara update file.
